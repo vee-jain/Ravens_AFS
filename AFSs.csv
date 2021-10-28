@@ -1,0 +1,45 @@
+FID,Latitude,Longitude,Name,Type,Category,Verified,Comment
+F01,47.8053,13.9487,Cumberland Wildpark,Wildpark,Wildpark,Y,"Wildpark with boar, wolf and bear enclosures, food supplied daily between 8-10am "
+F02,47.960475,13.843381,Kompostierung Gattinger,Compost,Refuse,Y,Outdoor composting with 18 long rows with piles of raw processing material
+F03,47.9119,14.2413,,Compost,Refuse,Y,Outdoor composting in a multi-use area with lots of other contstruction storage
+F04,48.063333,14.389408,Kompostplatz Wolfern,Compost,Refuse,Y,Small outdoor composting area
+F05,47.561278,14.273867,Abfallwirtschaftsverband Liezen,Compost,Refuse,Y,Large composting area within a waste management centre. Large piles of plastic waste under roofed area 
+F06,47.935528,13.784208,unknown,Compost,Refuse,Y,Moderate size outdoor private composting facility with 8 long rows
+F08,47.2074,14.8555,Gobernitz Kompostieranlage,Compost,Refuse,Y,"Large composting processing site with many stages of compost, including lots of plastic. Roofed area for mature compost and outdoor area for early maturing rows with lots of plastic"
+F10,48.6736,14.5369,,Dump,Refuse,N,
+F11,48.7381,14.3427,,Dump,Refuse,N,
+F12,46.755797,14.347186,Kompostieranlage St Veit Altstoffsammelzentrum,Farm,Farm,Y,Composting area on a section of the property
+F13,47.386758,13.217992,,Dump,Refuse,Y,Large waste management centre with some outdoor inorganic waste piles and a smaller indoor waste and compost processing area
+F14,47.293,14.938344,Poschacher Kompost,Compost,Refuse,Y,"Large indoor and outdoor composting area with tall (~4m) and wide rows without much plastic, perhaps agricultural composting"
+F15,47.382289,13.209775,H&H Recycling,Compost,Refuse,Y,"Composting area for agricultural waste with long maturing piles (~4m tall) under roofed structures and early stage outdoor processing, not much plastic"
+F16,47.430222,14.985989,Pichler-reifen,Compost,Refuse,Y,Compost site operating at half capacity with lots of plastic and affiliated with lots of nearby buildings (multi-discpilinary companies)
+F17,47.426986,13.796033,"AWV Schladming, Abfallverwertungsanlage Aich ",Dump,Refuse,Y,Compost site with large unsorted outdoor organic piles (two short and tall maturing rows visible) and some smaller composting piles under the roofed area. 
+F18,48.041325,14.452675,"Wachtberg Kompost, company 'Argyl'",Compost,Refuse,Y,Small outdoor composting area on a section of the property
+F19,47.321506,13.391969,"Hinterrohrgut Appartement, Chalet, Almhütte",Farm,Farm,Y,Small barnyard composting area behind the farmhouse
+F20,47.990428,13.566328,Arge Kompost,Compost,Refuse,Y,Large indoor and outdoor composting area. Over 12 long rows outdoors and 5 long rows under a dome roof
+F21,47.816075,13.721553,Feuerkogel,Ski hut,Hut,N,Ski field closed and inaccessible 
+F22,47.139661,14.310583,Altstoffsammelzentrum des Abfallwirtschaftsverband Murau,Dump,Refuse,N,
+F23,47.120667,15.028842,,Farm,Farm,Y,Small outdoor composting area on a section of a private farm with a large livestock barn. Plastic in piles.
+F24,47.608264,13.139853,Struber Entsorgung GmbH,Dump,Refuse,Y,"Waste management centre with a small section for organic material, but no obvious maturing composting rows. Lots of plastic sorting and compressing. Undercover processing includes a furnace."
+F25,47.892978,14.126397,Altstoffsammelzentrum Micheldorf,Dump,Refuse,N,
+F26,46.893931,14.572958,Forellenwirt Bacher,Hotel,Hut,N,
+F27,47.398044,13.788733,Natur- und Wellnesshotel Höflehner,Ski hut,Hut,Y,Ski lodge and wellness centre with large hotel accomodation and restaurant
+F28,47.246744,13.512108,Jugendhotel Felseralm,Ski hut,Hut,N,
+F29,47.29805,13.407631,Burgstallhütte,Ski hut,Hut,Y,Ski area
+F30,47.311722,13.397178,Ketzerlehen Bauernhof,Farm,Farm,Y,Game farm with a storage shed for possibly processing game carcasses
+F31,47.326961,13.256811,not known,Farm,Farm,N,Car got stuck en route so survey was not conducted. 
+F32,47.343867,13.372111,Bergrestaurant und Hotel Waldgasthof,Ski hut,Hut,Y,Ski area
+F34,47.487708,14.294628,,Hut,Hut,N,
+F35,47.699889,13.482164,Wildtierpark Kleefeld,Wildpark,Wildpark,N,
+F36,47.809167,13.976944,Kasbergalmhütte,Restaurant,Hut,N,
+F37,47.983644,14.532956,,Hotel,Hut,N,
+F38,47.757053,13.116806,Alpengasthof Fageralm,Hotel,Hut,Y,"Alpine Guesthouse, where the ownder would leave grill leftovers out for the ravens"
+F39,48.100008,14.556844,Tierpark Stadt Haag,Wildpark,Wildpark,N,
+F40,47.776386,13.434592,Hotel Schafbergspitze,Hotel,Hut,N,
+F41,47.354436,14.159208,Feriendorf Hinterwald,Hotel,Hut,N,
+F42,47.508058,14.205539,Untergrabner Hütte in der Region Grimming Donnersbachtal,Hotel,Hut,N,
+F43,47.58825,14.094508,Johnsleitner Hütte- Gnanitzalm & Hechl Hütte,Hut,Hut,N,
+F45,47.833369,13.948861,JUFA Hotel Almtal,Hotel,Hut,N,
+F46,47.797181,14.021578,Steyrerhütte,Hut,Hut,N,
+F47,47.800911,14.026242,Ahornalmhütte,Hut,Hut,N,
+F48,47.936917,13.882936,Sägewerk Forstinger,Hut,Hut,N,
